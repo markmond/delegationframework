@@ -1,0 +1,20 @@
+title: Domain‑Specific Language for Delegation (DSLD)
+description: Formal language specification and reference docs
+theme: minima
+baseurl: ""         # leave empty
+markdown: kramdown
+kramdown:
+  toc_levels: 1..3
+nav:
+  - title: Home
+    url: /
+  - title: Language Spec
+    url: /language-specification
+  - title: Commands
+    url: /commands-reference
+  - title: Notation
+    url: /notation-guidelines
+  - title: Keywords
+    url: /keywords
+
+Add site config
