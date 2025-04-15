@@ -937,4 +937,4 @@ Related standards, languages, and resources.
 
 ---
 
-© 2025 DSLD Working Group. This specification is available under the Creative Commons Attribution 4.0 International License.
+© 2025 DSLD Markmon. This specification is available under the Creative Commons Attribution 4.0 International License.
